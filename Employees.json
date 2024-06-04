@@ -1,0 +1,36 @@
+{
+    "Employees":[
+        {
+            "userId":
+            "FirstName":
+            "LastName":
+            "Salary":
+            "Department":
+        },
+
+        {
+            "userId":
+            "FirstName":
+            "LastName":
+            "Salary":
+            "Department":
+        },
+
+        {
+            "userId":
+            "FirstName":
+            "LastName":
+            "Salary":
+            "Department":
+        },
+
+        {
+            "userId":
+            "FirstName":
+            "LastName":
+            "Salary":
+            "Department":
+        }
+       
+    ]
+}
